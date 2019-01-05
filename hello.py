@@ -5,4 +5,4 @@ while num < len(lst):
     product *=lst[num]
     num += 1
     
-print("the product of the lst is!!!: ",product)
+print("the product of the lst is!!!!: ",product)
